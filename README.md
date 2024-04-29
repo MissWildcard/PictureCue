@@ -1,2 +1,2 @@
 # PictureCue
-Stable Diffusion: Image to Prompt Generator
+Image Captioning for Cake Images using Stable Diffusion Augmentation
