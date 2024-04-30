@@ -36,7 +36,8 @@ Run 3_ModelTraining.ipynb to train your model on both the original dataset and t
 It is recommended to give appropriate name while saving these model to your directory <br />
 
 **Step4:** <br />
-Load saved model and run 4_ModelEvaluation.ipynb to evaluate the model using BLEU scores <br />
+We have saved the trained models at https://drive.google.com/drive/folders/1WpzQjFIvOQkhHSSTrdB5vAwkXzg-4lGt?usp=sharing
+Load the required model and run 4_ModelEvaluation.ipynb to evaluate the model using BLEU scores <br />
 
 You may use either of our models (one trained on original 2.9k dataset and the other on 5.9k augmented dataset) for inference <br />
 You may use the cake sample images from Data/cake_samples.zip. <br />
