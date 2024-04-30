@@ -1,5 +1,5 @@
 # PictureCue
-###Cakewalk: Image Captioning for Cake Images using Stable Diffusion Augmentation  
+##Cakewalk: Image Captioning for Cake Images using Stable Diffusion Augmentation  
 
 **Step0:**<br />
 Before running the notebook, make sure that you have downloaded the COCO dataset <br />
