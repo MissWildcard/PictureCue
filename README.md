@@ -2,9 +2,9 @@
 ### Cakewalk: Image Captioning for Cake Images using Stable Diffusion Augmentation  
 
 **Step0:**<br />
-Before running the notebook, make sure that you have downloaded the COCO dataset <br />
+Before running the notebook, make sure that you have downloaded the COCO dataset http://images.cocodataset.org/ <br />
 
-Foe donwloading the dataset, you may use :<br />
+Foe downloading the dataset, you may use :<br />
 
 wget http://images.cocodataset.org/zips/train2017.zip  <br />
 wget http://images.cocodataset.org/zips/val2017.zip <br />
